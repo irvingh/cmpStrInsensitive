@@ -1,0 +1,2 @@
+# cmpStrInsensitive
+compare case insensitive
